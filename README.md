@@ -1,2 +1,4 @@
-# ZTunZ.github.io
-eiei
+# WhoAmI
++ name
+* ชื่อ-นามสกุล
+- ชื่อเล่น
