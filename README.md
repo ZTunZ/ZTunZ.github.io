@@ -1,5 +1,5 @@
 ![alt text](Tawan1.jpg)
 # WhoAmI
-+ name
-* ชื่อ-นามสกุล
-- ชื่อเล่น
++ name : Tawan Sriwansiri
+* ชื่อ-นามสกุล : ตะวัน ศรีวรรณศิริ
+- ชื่อเล่น : ตั้น
