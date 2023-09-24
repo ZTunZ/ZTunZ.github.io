@@ -1,3 +1,4 @@
+![alt text](Tawan.jpg)
 # WhoAmI
 + name
 * ชื่อ-นามสกุล
